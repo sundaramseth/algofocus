@@ -4,7 +4,7 @@ Django==3.0.5
 django-cors-headers==3.2.1
 djangorestframework==3.11.0
 gunicorn==20.0.4
-Pillow==7.1.1
+Pillow==8.1.1
 python-http-client==3.2.7
 pytz==2019.3
 sendgrid==3.6.5
